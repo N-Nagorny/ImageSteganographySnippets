@@ -26,5 +26,7 @@ The scripts are tested only with square image containers with sides dividable by
 
 # References
 [1] Шелухин О. И. Стеганография. Алгоритмы и программная реализация / О. И. Шелухин, С. Д. Канаев. — ООО «Научно-техническое издательство «Горячая линия–Телеком», 2017.
+
 [2] Kutter M., Jordan F., Bossen F. Digital Signature Of Color Images Using Amplitude Modulation // Proc. of the SPIE Storage and Retrieval for Image and Video Databases V. 1997. Vol. 3022. Pp. 518-526.
+
 [3] Bruyndonckx, O., J.J. Quisquater and B. Macq, 1995. Spatial method for copyright labeling of digital images. Proc. IEEE Workshop on Nonlinear Signal and Image Processing, Neos Marmaras, Greece, 20-22 Jun, pp: 456-459.
